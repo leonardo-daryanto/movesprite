@@ -1,3 +1,6 @@
+//% weight=100 color=#D98880 icon=↕️
+
+
 namespace movement {
     /**
      * move the sprite
